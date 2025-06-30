@@ -56,6 +56,7 @@ Quy trình DORA (discover - Offer - Request - ACK)
 - class C: 1 1 0 với 21 bit network + 8 bit host
 - class D: 1 1 1 0
 - class E: 1 1 1 1
+
 ![image](https://github.com/user-attachments/assets/629e593a-0fef-495c-a066-bd909db4738f)
 
 
