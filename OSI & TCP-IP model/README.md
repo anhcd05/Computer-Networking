@@ -34,7 +34,7 @@ Mô hình OSI (Open Systems Interconnection) là một mô hình mà tại đó 
 * Là tầng cao nhất của mô hình OSI, cung cấp trực tiếp dịch vụ mạng tới người dùng bằng cách cho phép chia sẻ tài nguyên, truy cập tài nguyên từ xa, và các dịch vụ mạng khác
 * Sử dụng HTTP, FTP, SMTP, DNS
 
-![image](https://hackmd.io/_uploads/rJlwPVPjJx.png)
+![image](https://github.com/user-attachments/assets/a554b3d5-5760-4355-8a43-f4310c9482b6)
 
 ## TCP/IP Model
 
