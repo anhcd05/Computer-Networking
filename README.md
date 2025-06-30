@@ -8,7 +8,7 @@ Một mô hình mạng (network) là một tập hợp các thiết bị đượ
 
 Các thiết bị đầu cuối riêng lẻ này thường được gọi là `nodes`, có thể bao gồm máy tính, điện thoại, máy in và máy chủ. Tuy nhiên chỉ có mỗi nodes thì chưa thể hình thành được hoàn toàn một mô hình mạng máy tính.
 
-![image](https://hackmd.io/_uploads/ryY6xXDi1l.png)
+![image](https://github.com/user-attachments/assets/b4015c13-9e27-4156-adf7-94ab0f491568)
 
 Những ý trên nghe còn có vẻ hơi khó hiểu, nhưng nhìn chung thì ta có thể mô tả một mô hình mạng trong thực tế như sau:
 * Giả sử có bạn cần gửi thư (online hoặc offline) tới một người bạn ở xa =>
@@ -33,7 +33,7 @@ Những ý trên nghe còn có vẻ hơi khó hiểu, nhưng nhìn chung thì ta
 
 ## How do LANs and WANs work together?
 
-![Một mô hình mạng WAN được hình thành từ các mạng LAN](https://hackmd.io/_uploads/S1Zxd7vi1g.png)
+![image](https://github.com/user-attachments/assets/5a035755-561f-4a7f-8725-03287c0adfdf)
 
 Để giải thích cách mà các mạng LAN - WAN hoạt động chung với nhau, ta có thể mô tả nhỏ hơn như này:
 * When accessing the Internet, a home LAN connects to an Internet Service Provider's (ISP's) WAN, which grants Internet access to all devices within the home network
